@@ -1,0 +1,58 @@
+{
+	"magicFader" : {
+		"name" : "Magic Fader",
+//		"defaultGainChance" : 4,
+		"gainChance" : {
+			"might" : 4,
+			"magic" : 1
+		},
+		"base" : {
+			"effects" : {
+				"blockCast" : {
+					"type" : "OPENING_BATTLE_SPELL",
+					"valueType" : "BASE_NUMBER",
+					"val" : 2
+				}
+			}
+		},
+		"basic" : {
+			"images" : {
+				"small" : "skills/magicFaderSmallBasic",
+				"medium" : "skills/magicFaderMediumBasic",
+				"large" : "skills/magicFaderLargeBasic"
+			},
+			"description" : "{Basic Magic Fader}\n\nDuring battle blocks casting 5 lvl spells by enemy hero.",
+			"effects" : {
+				"blockCast" : {
+					"subtype" : "spell.blockBas",
+				}
+			}
+		},
+		"advanced" : {
+			"images" : {
+				"small" : "skills/magicFaderSmallAdvanced",
+				"medium" : "skills/magicFaderMediumAdvanced",
+				"large" : "skills/magicFaderLargeAdvanced"
+			},
+			"description" : "{Advanced Magic Fader}\n\nDuring battle blocks casting 4-5 lvl spells by enemy hero.",
+			"effects" : {
+				"blockCast" : {
+					"subtype" : "spell.blockAdv",
+				}
+			}
+		},
+		"expert" : {
+			"images" : {
+				"small" : "skills/magicFaderSmallExpert",
+				"medium" : "skills/magicFaderMediumExpert",
+				"large" : "skills/magicFaderLargeExpert"
+			},
+			"description" : "{Expert Magic Fader}\n\nDuring battle blocks casting 3-5 lvl spells by enemy hero.",
+			"effects" : {
+				"blockCast" : {
+					"subtype" : "spell.blockExp",
+				}
+			}
+		}
+	}
+}

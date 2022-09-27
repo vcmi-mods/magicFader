@@ -1,0 +1,22 @@
+{
+	"name" : "Magic Fader",
+	"compatibility":
+	{
+	"min" : "1.0.0"
+	},
+	"description" : "New secondary skill: Magic Fader. Partially blocks casting spells by enemy hero.",
+	"version" : "1.00",
+	"author" : "avatar. Graphic: HotA Team (rejected material).",
+	"contact" : "",
+	"modType" : "skills",
+	"skills" : 
+	[
+		"config/magicFader.json"
+	],
+	"spells" : 
+	[
+		"config/blockBas.json",
+		"config/blockAdv.json",
+		"config/blockExp.json"
+	]
+}
