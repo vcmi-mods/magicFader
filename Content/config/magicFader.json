@@ -24,7 +24,7 @@
 			"description" : "{Basic Magic Fader}\n\nDuring battle blocks casting 5 lvl spells by enemy hero.",
 			"effects" : {
 				"blockCast" : {
-					"subtype" : "spell.blockBas",
+					"subtype" : "spell.blockBas"
 				}
 			}
 		},
@@ -37,7 +37,7 @@
 			"description" : "{Advanced Magic Fader}\n\nDuring battle blocks casting 4-5 lvl spells by enemy hero.",
 			"effects" : {
 				"blockCast" : {
-					"subtype" : "spell.blockAdv",
+					"subtype" : "spell.blockAdv"
 				}
 			}
 		},
@@ -50,7 +50,7 @@
 			"description" : "{Expert Magic Fader}\n\nDuring battle blocks casting 3-5 lvl spells by enemy hero.",
 			"effects" : {
 				"blockCast" : {
-					"subtype" : "spell.blockExp",
+					"subtype" : "spell.blockExp"
 				}
 			}
 		}

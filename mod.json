@@ -8,7 +8,7 @@
 	"version" : "1.00",
 	"author" : "avatar. Graphic: HotA Team (rejected material).",
 	"contact" : "",
-	"modType" : "skills",
+	"modType" : "Skills",
 	"skills" : 
 	[
 		"config/magicFader.json"
