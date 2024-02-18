@@ -7,6 +7,13 @@
 	"description" : "New secondary skill: Magic Fader. Partially blocks casting spells by enemy hero.",
 	"version" : "1.00",
 	"author" : "avatar. Graphic: HotA Team (rejected material).",
+	"chinese" : {
+		"name" : "法术抑制",
+		"description" : "添加新技能：法术抑制。 阻止敌方英雄施放部分法术。",
+		"translations" : [
+			"config/translation/chinese.json"
+		]
+	},
 	"contact" : "",
 	"modType" : "Skills",
 	"skills" : 

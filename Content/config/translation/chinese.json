@@ -1,0 +1,9 @@
+{
+    "spell.magic-fader.blockAdv.name" : "法术抑制",
+    "spell.magic-fader.blockBas.name" : "法术抑制",
+    "spell.magic-fader.blockExp.name" : "法术抑制",
+    "skill.magic-fader.magicFader.description.advanced" : "{中级法术抑制}\n\n交战时阻止敌方英雄施放4-5级魔法。",
+    "skill.magic-fader.magicFader.description.basic" : "{初级法术抑制}\n\n交战时阻止敌方英雄施放5级魔法。",
+    "skill.magic-fader.magicFader.description.expert" : "{高级法术抑制}\n\n交战时阻止敌方英雄施放3-5级魔法。",
+    "skill.magic-fader.magicFader.name" : "法术抑制",
+}
