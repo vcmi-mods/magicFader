@@ -1,0 +1,9 @@
+{
+    "skill.magic-fader.magicFader.description.advanced" : "{Lepší antimagie}\n\nBěhem boje blokuje sesílání kouzel 2. a 3. úrovně nepřátelským hrdinou.",
+    "skill.magic-fader.magicFader.description.basic" : "{Základní antimagie}\n\nBěhem boje blokuje sesílání kouzel 1. úrovně nepřátelským hrdinou.",
+    "skill.magic-fader.magicFader.description.expert" : "{Expertní antimagie}\n\nBěhem boje blokuje sesílání kouzel 3. až 5. úrovně nepřátelským hrdinou.",
+    "skill.magic-fader.magicFader.name" : "Antimagie",
+    "spell.magic-fader.blockAdv.name" : "Antimagie",
+    "spell.magic-fader.blockBas.name" : "Antimagie",
+    "spell.magic-fader.blockExp.name" : "Antimagie"
+}
