@@ -1,0 +1,9 @@
+{
+    "skill.magic-fader.magicFader.description.advanced" : "{Магическая завеса продвинутой ступени}\n\nВо время битвы блокирует вражескому герою произнесение заклинаний 4-го и 5-го уровня.",
+    "skill.magic-fader.magicFader.description.basic" : "{Магическая завеса базовой ступени}\n\nВо время битвы блокирует вражескому герою произнесение заклинаний 5-го уровня.",
+    "skill.magic-fader.magicFader.description.expert" : "{Магическая завеса экспертной ступени}\n\nВо время битвы блокирует вражескому герою произнесение заклинаний 3-го, 4-го и 5-го уровня.",
+    "skill.magic-fader.magicFader.name" : "Магическая завеса",
+    "spell.magic-fader.blockAdv.name" : "Магическая завеса",
+    "spell.magic-fader.blockBas.name" : "Магическая завеса",
+    "spell.magic-fader.blockExp.name" : "Магическая завеса"
+}
