@@ -5,13 +5,14 @@
 	"min" : "1.0.0"
 	},
 	"description" : "New secondary skill: Magic Fader. Partially blocks casting spells by enemy hero.",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"author" : "avatar. Graphic: HotA Team (rejected material).",
 	"changelog" :
     {
-        "1.0.0" : [ "Initial release" ],
-        "1.0.1" : [ "Added Chinese translation" ],
+        "1.0.3" : [ "Added russian translation" ]
         "1.0.2" : [ "Czech translation by George King" ]
+	"1.0.1" : [ "Added Chinese translation" ],
+	"1.0.0" : [ "Initial release" ]
     },
 	"chinese" : {
 		"name" : "法术抑制",
@@ -25,6 +26,13 @@
 		"description" : "Přidává novou dovednost: Antimagie. Blokuje nepřátelskému hrdinovi možnost sesílat některá kouzla.",
 		"translations" : [
 			"config/translation/czech.json"
+		]
+	},
+	"russian" : {
+		"name" : "Магическая завеса",
+		"description" : "Добавляет новый вторичный навык: Магическая завеса. Частично блокирует использование заклинаний вражеским героем.",
+		"translations" : [
+			"config/translation/russian.json"
 		]
 	},
 	"contact" : "",
