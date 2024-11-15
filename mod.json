@@ -9,10 +9,10 @@
 	"author" : "avatar. Graphic: HotA Team (rejected material).",
 	"changelog" :
     {
-        "1.0.3" : [ "Added russian translation" ]
-        "1.0.2" : [ "Czech translation by George King" ]
-	"1.0.1" : [ "Added Chinese translation" ],
-	"1.0.0" : [ "Initial release" ]
+        "1.0.3" : [ "Added russian translation by Keloraen", "Added polish translation by FallainBlack" ],
+        "1.0.2" : [ "Czech translation by George King" ],
+		"1.0.1" : [ "Added Chinese translation" ],
+		"1.0.0" : [ "Initial release" ]
     },
 	"chinese" : {
 		"name" : "法术抑制",
@@ -33,6 +33,13 @@
 		"description" : "Добавляет новый вторичный навык: Магическая завеса. Частично блокирует использование заклинаний вражеским героем.",
 		"translations" : [
 			"config/translation/russian.json"
+		]
+	},
+	"polish" : {
+		"name" : "Tłumienie magii",
+		"description" : "Nowa umiejętność: Tłumienie magii. Częściowo blokuje możliwość rzucania czarów przez wrogich bohaterów.",
+		"translations" : [
+			"config/translation/polish.json"
 		]
 	},
 	"contact" : "",

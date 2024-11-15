@@ -1,0 +1,9 @@
+{
+    "spell.magic-fader.blockAdv.name" : "Tłumienie Magii",
+    "spell.magic-fader.blockBas.name" : "Tłumienie Magii",
+    "spell.magic-fader.blockExp.name" : "Tłumienie Magii",
+    "skill.magic-fader.magicFader.description.advanced" : "{Zaawansowane tłumienie Magii}\n\nUniemożliwia wrogim bohaterom rzucanie zaklęć poziomu 4-5 podczas walki.",
+    "skill.magic-fader.magicFader.description.basic" : "{Podstawowe Tłumienie Magii}\n\nUniemożliwia wrogim bohaterom rzucanie zaklęć poziomu 5 podczas walki.",
+    "skill.magic-fader.magicFader.description.expert" : "{Mistrzowskie Tłumienie Magii}\n\nUniemożliwia wrogim bohaterom rzucanie zaklęć poziomu 3-5 podczas walki.",
+    "skill.magic-fader.magicFader.name" : "Tłumienie Magii",
+}
